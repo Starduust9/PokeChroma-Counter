@@ -14,6 +14,14 @@ Décompresse le zip, ouvre le dossier **Compteur Shiny** et lance **CompteurShin
 
 Le mode d'emploi complet est dans `LISEZ-MOI.md`, à l'intérieur du zip.
 
+## Soutenir le projet ❤
+
+Le logiciel est gratuit et le restera. Si il t'aide dans tes chasses, tu peux m'offrir un café :
+👉 **[ko-fi.com/pokechroma](https://ko-fi.com/pokechroma)**
+
+Les dons servent à héberger le site PokéChroma, à créer le serveur de sauvegarde des chasses et
+à développer le mode 3D. Merci !
+
 ## Mises à jour
 
 Le logiciel vérifie tout seul au lancement s'il existe une nouvelle version et propose de
