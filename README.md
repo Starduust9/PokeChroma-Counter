@@ -1,6 +1,6 @@
-# Compteur Shiny
+# PokéChroma Counter
 
-Logiciel Windows qui regarde ta carte d'acquisition (Elgato, caméra virtuelle OBS…) ou la
+**PokéChroma Counter** (anciennement Compteur Shiny) est un logiciel Windows qui regarde ta carte d'acquisition (Elgato, caméra virtuelle OBS…) ou la
 fenêtre de ton logiciel de capture, **compte chaque rencontre** et **t'alerte** (son, Discord,
 capture d'écran) quand le Pokémon est shiny. Tu joues à la main, le logiciel ne fait que regarder.
 
